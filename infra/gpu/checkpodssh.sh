@@ -1,3 +1,3 @@
 #!/bin/bash
 
-runpodctl pod ssh info $1
+runpodctl pod ssh info "$1"

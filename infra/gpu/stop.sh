@@ -1,3 +1,3 @@
 #!/bin/bash
 
-runpodctl pod stop $1
+runpodctl pod stop "$1"

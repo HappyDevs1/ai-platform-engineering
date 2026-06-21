@@ -1,3 +1,3 @@
 #!/bin/bash
 
-runpodctl pod start $1
+runpodctl pod start "$1"
