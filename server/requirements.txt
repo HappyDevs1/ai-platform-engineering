@@ -3,8 +3,5 @@ uvicorn
 httpx
 python-dotenv
 redis
-json
-time
 uuid
-threading
 asyncio
