@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import httpx
 import redis
 import uuid
+import threading
 import asyncio
 
 load_dotenv()
