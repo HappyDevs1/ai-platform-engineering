@@ -6,7 +6,7 @@ services:
   gateway:
     image: happydevs1/server
     ports:
-      - "5000:5000"
+      - "8080:8080"
     depends_on:
       - vllm
       - redis
